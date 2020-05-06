@@ -17,7 +17,7 @@
 
 0. Use the char_name and char_stat values to pull the appropriate value from the dictionary below.
 
-        {"flash":{"speed": "fastest", "intelligence": "lowest", "strength": "lowest"}, "batman":{"speed": "slowest", "intelligence": "Highest", "strength": "Money"}, "superman":{"speed": "fast, "intelligence": "average", "strength": "strongest"}}
+        {"flash":{"speed": "fastest", "intelligence": "lowest", "strength": "lowest"}, "batman":{"speed": "slowest", "intelligence": "highest", "strength": "money"}, "superman":{"speed": "fast", "intelligence": "average", "strength": "strongest"}}
 
 0. Create a print function that combines that information into this output:
 
