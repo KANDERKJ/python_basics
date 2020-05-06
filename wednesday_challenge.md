@@ -23,4 +23,5 @@
 
         <char_name>'s <char_stat> is: <value>
 
-**BONUS:** When returning the hero's name, have it capitalized appropriately (e.g. Flash, not flash)
+**BONUS 1:** When returning the hero's name, have it capitalized appropriately (e.g. Flash, not flash)
+**BONUS 2:** Make the user's input error proof!
