@@ -37,6 +37,8 @@ while answer != "q":
     2. W Farm
     3. SE Farm""")
 
+
+```
     choice= input("> ")
 
     if choice.lower() in ["1", "ne farm", "ne"]:
@@ -61,4 +63,4 @@ while answer != "q":
 
     answer= input("\n Press ENTER to try again or press Q to quit!")
     answer= answer.lower()
-"""
+```
