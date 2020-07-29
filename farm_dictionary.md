@@ -21,7 +21,7 @@ farms = [{"name": "NE Farm", "agriculture": ["sheep", "cows", "pigs", "chickens"
 • ...but only return ANIMALS from that particular farm.
 
 
-"""
+```
 #!/usr/bin/python3
 
 farms = [{"name": "NE Farm", "agriculture": ["sheep", "cows", "carrots", "pigs", "chickens", "llamas", "cats"]},
@@ -37,8 +37,6 @@ while answer != "q":
     2. W Farm
     3. SE Farm""")
 
-
-```
     choice= input("> ")
 
     if choice.lower() in ["1", "ne farm", "ne"]:
