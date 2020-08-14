@@ -11,9 +11,9 @@
 
 
 
-0. Choose one of the three lists above (or try all three!)
+0. Start with "easy" and work your way up!
 
-0. From the list you chose, you must pull the strings "eyes," "goggles," and "nothing." YOU MUST USE THE LIST AS WRITTEN. YOU MAY NOT MODIFY ANY OF THE LISTS :)
+0. From each list you must pull the strings "eyes," "goggles," and "nothing." YOU MUST USE THE LIST AS WRITTEN. YOU MAY NOT MODIFY ANY OF THE LISTS :)
 
 0. Create a print function that uses those three words *(eyes, goggles, nothing)* that writes out this popular Simpsons quote:
 
