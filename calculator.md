@@ -1,13 +1,13 @@
 ## FUNCTIONS CHALLENGE
 ### Make a calculator that takes two integers and adds/subtracts/divides/multiplies them!
 
-0. Use FUNCTIONS to create a calculator! Your script must accept the following user input: 
+1. Use FUNCTIONS to create a calculator! Your script must accept the following user input: 
 
-  • a float/integer
-  
-  • another float/integer
-  
-  • an operator (add, subtract, divide, multiply)
+      • a float/integer
+
+      • another float/integer
+
+      • an operator (add, subtract, divide, multiply)
   
 0. Your script should return the answer!
 
