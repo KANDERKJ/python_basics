@@ -3,11 +3,9 @@
 
 1. Use FUNCTIONS to create a calculator! Your script must accept the following user input: 
 
-      • a float/integer
-
-      • another float/integer
-
-      • an operator (add, subtract, divide, multiply)
+      - a float/integer
+      - another float/integer
+      - an operator (add, subtract, divide, multiply)
   
 0. Your script should return the answer!
 
