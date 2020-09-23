@@ -1,7 +1,7 @@
 ## FUNCTIONS CHALLENGE
 ### Make a calculator that takes two integers and adds/subtracts/divides/multiplies them!
 
-0. Create a FUNCTION which accepts three arguments: 
+0. Use FUNCTIONS to create a calculator! Your script must accept the following user input: 
 
   • a float/integer
   
@@ -9,12 +9,8 @@
   
   • an operator (add, subtract, divide, multiply)
   
-  > example: calculator(int1, int2, operator)
-  
-0. Allow a user to make input for all three arguments.
+0. Your script should return the answer!
 
 **BONUS 1:** Make the script human-error proof. Use IF/ELIF/ELSE and TRY/EXCEPT where necessary!
 
 **BONUS 2:** If the user types in a bad input, have them type it in again! Use a WHILE LOOP!
-
-**BONUS 3:** Make your function call a SECOND function (the purpose of which is up to you!)
